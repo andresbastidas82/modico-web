@@ -13,8 +13,8 @@ const siteConfig = {
   empresa: "Modico",
 
   // Contacto
-  telefono: "+57 310 200 1847",
-  whatsapp: "3102001847", // solo números, sin + ni espacios
+  telefono: "+57 310 200 2000",
+  whatsapp: "3102002000", // solo números, sin + ni espacios
   email: "modicopasto@gmail.com",
   direccion: "Pasto - Nariño",
 
@@ -22,7 +22,7 @@ const siteConfig = {
   redes: {
     facebook: "https://facebook.com/modico",
     instagram: "https://instagram.com/modico",
-    whatsapp: "https://wa.me/3102001847",
+    whatsapp: "https://wa.me/3102002000",
   },
 
   // EmailJS — Configura tus credenciales aquí
