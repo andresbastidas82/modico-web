@@ -13,16 +13,16 @@ const siteConfig = {
   empresa: "Modico",
 
   // Contacto
-  telefono: "+57 317 387 1847",
-  whatsapp: "3173871847", // solo números, sin + ni espacios
-  email: "andresbastidas82@gmail.com",
+  telefono: "+57 310 200 1847",
+  whatsapp: "3102001847", // solo números, sin + ni espacios
+  email: "modicopasto@gmail.com",
   direccion: "Pasto - Nariño",
 
   // Redes sociales (deja vacío "" si no aplica)
   redes: {
     facebook: "https://facebook.com/modico",
     instagram: "https://instagram.com/modico",
-    whatsapp: "https://wa.me/3173871847",
+    whatsapp: "https://wa.me/3102001847",
   },
 
   // EmailJS — Configura tus credenciales aquí
@@ -31,9 +31,9 @@ const siteConfig = {
   // 3. Crea un template con las variables: from_name, from_email, phone, message
   // 4. Copia los IDs aquí abajo
   emailjs: {
-    serviceId: "service_n9y5zas",
-    templateId: "template_3up4sma",
-    publicKey: "hBSWiD2kZ1Aqm6ewq",
+    serviceId: "service_id",
+    templateId: "template_id",
+    publicKey: "public_key",
   },
 };
 
